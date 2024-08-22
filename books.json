@@ -1,0 +1,23 @@
+[
+  {
+    "id": 982976,
+    "name": "Book Management System",
+    "author": "Jane Smith",
+    "description": "An efficient system for managing and cataloging books in a library.",
+    "cover": "https://example.com/cover2.jpg"
+  },
+  {
+    "id": 824670,
+    "name": "React UI Library",
+    "author": "Alex Johnson",
+    "description": "A comprehensive UI component library built with React.",
+    "cover": "https://example.com/cover3.jpg"
+  },
+  {
+    "id": 693684,
+    "name": "React UI Library12313",
+    "author": "Alex Johnson",
+    "description": "A comprehensive UI component library built with React.",
+    "cover": "https://example.com/cover3.jpg"
+  }
+]
