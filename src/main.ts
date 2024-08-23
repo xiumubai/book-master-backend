@@ -10,6 +10,7 @@ async function bootstrap() {
   app.useGlobalPipes(new ValidationPipe({ transform: true }));
   app.enableCors();
   app.useStaticAssets(join(__dirname, '../uploads'), { prefix: '/uploads' });
+  app.setGlobalPrefix('api'); // 设置全局路由前缀
 
   await app.listen(3000);
 }
